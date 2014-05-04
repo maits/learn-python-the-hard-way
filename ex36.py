@@ -74,5 +74,5 @@ start()
 #i'd like to improve this by adding options to inputs. 
 #for example: 
 #if "take a cab" or "cab" in next:
-#that should work whether the user inouts cab or take a cab
-#problem is that it messes up my code later, so I had to eliminate it. 
+#that should work whether the user inputs "cab" or "take a cab"
+#problem is that it messed up my code later on, so I had to eliminate it. 
