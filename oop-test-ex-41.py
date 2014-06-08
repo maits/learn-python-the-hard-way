@@ -79,3 +79,5 @@ try:
 			print "ANSWER: %s\n\n" % answer
 except EOFError:
 	print "\nBye"
+
+#need to memorize the flash cards and work on this
