@@ -72,5 +72,5 @@ flipper = Fish()
 ## Crouse is-a Salmon
 crouse = Salmon()
 
-## Harry is a Halibut
+## Harry is-a Halibut
 harry = Halibut()
